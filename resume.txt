@@ -1,0 +1,12 @@
+Mahadev R
+ LinkedIn: https://in.linkedin.com/in/mahadev-raaamesh-89a353329
+Professional Summary
+ I am a 12th graduate and currently studying in Chennai Institute of Technology. 
+Projects 
+•	Made an automated garbage can with Arduino board
+•	Made a basic notes app with kotlin
+Skills
+•	Know how to code in C, C++, Java, Javascript ,typescript, Kotlin ,Arduino C and python
+•	Can speak fluent English 
+Education 
+B.Tech in Artificial Intelligence and Data Science Chennai Institute of Technology 2024– 2028
