@@ -1,12 +1,34 @@
 Mahadev R
  LinkedIn: https://in.linkedin.com/in/mahadev-raaamesh-89a353329
-Professional Summary
- I am a 12th graduate and currently studying in Chennai Institute of Technology. 
-Projects 
-•	Made an automated garbage can with Arduino board
-•	Made a basic notes app with kotlin
-Skills
-•	Know how to code in C, C++, Java, Javascript ,typescript, Kotlin ,Arduino C and python
-•	Can speak fluent English 
+ GitHub: https://github.com/MahadevRaaamesh
+ Email: mahadevraamesh@gmail.com
+ Phone No:7305176352
+
 Education 
-B.Tech in Artificial Intelligence and Data Science Chennai Institute of Technology 2024– 2028
+   B.Tech in Artificial Intelligence and Data Science Chennai Institute of Technology 2024– 2028
+
+Projects
+
+- Made a Simple Rag Machine For Judicial Help
+- Made a Template to create web apps faster with react,express,supabase
+-	Made an automated garbage can with Arduino board
+
+Certifications
+
+- Unity Essentials Pathway
+- Cisco : Introduction To Modern AI
+- Cisco : Introduction To Data Science
+
+Achievements
+
+- Top 10 team in Build With Google TechSprint - GDGoC 2025 Hack - NIT Rourkela 
+- Shortlisted in Sprint4Good AI HACKTHON 2026 - IIT DELHI 
+- Shortlisted in TechSprint - Code. Create. Contribute - PCE
+
+Skills
+
+-	Know how to code in C, C++, C#, Java, Javascript ,typescript ,Arduino C and python
+- Know How to use Firebase ,Vercel and Supabase 
+-	Can speak fluent English 
+
+
