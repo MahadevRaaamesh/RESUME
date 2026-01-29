@@ -2,7 +2,10 @@ Mahadev R
  LinkedIn: https://in.linkedin.com/in/mahadev-raaamesh-89a353329
  GitHub: https://github.com/MahadevRaaamesh
  Email: mahadevraamesh@gmail.com
- Phone No:7305176352
+ Leetcode: https://leetcode.com/u/mahadevraaamesh/
+ Codechef: https://www.codechef.com/users/mahadevr
+ CodeForces: https://codeforces.com/profile/mahadevraaamesh
+ Phone No: 7305176352
 
 Education 
    B.Tech in Artificial Intelligence and Data Science Chennai Institute of Technology 2024– 2028
@@ -11,7 +14,8 @@ Projects
 
 - Made a Simple Rag Machine For Judicial Help
 - Made a Template to create web apps faster with react,express,supabase
--	Made an automated garbage can with Arduino board
+- Making a Top Down Game in unity
+- Made an automated garbage can with Arduino board
 
 Certifications
 
@@ -27,8 +31,8 @@ Achievements
 
 Skills
 
--	Know how to code in C, C++, C#, Java, Javascript ,typescript ,Arduino C and python
+- Know how to code in C, C++, C#, Java, Javascript ,typescript ,Arduino C and python
 - Know How to use Firebase ,Vercel and Supabase 
--	Can speak fluent English 
+- Can speak fluent English 
 
 
