@@ -33,6 +33,7 @@ Skills
 
 - Know how to code in C, C++, C#, Java, Javascript ,typescript ,Arduino C and python
 - Know How to use Firebase ,Vercel and Supabase 
+- Know How to use Unity 
 - Can speak fluent English 
 
 
