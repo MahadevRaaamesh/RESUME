@@ -1,4 +1,5 @@
 Mahadev R
+
  LinkedIn: https://in.linkedin.com/in/mahadev-raaamesh-89a353329
  GitHub: https://github.com/MahadevRaaamesh
  Email: mahadevraamesh@gmail.com
@@ -8,6 +9,7 @@ Mahadev R
  Phone No: 7305176352
 
 Education 
+
    B.Tech in Artificial Intelligence and Data Science Chennai Institute of Technology 2024– 2028
 
 Projects
